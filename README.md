@@ -46,7 +46,7 @@ Please ask questions or suggest ideas through [Issues] or [Discussions].
 ## 🌟 Let’s Get Started
 
 - Start by cloning the repo:  
- git clone https://github.com/creed-labs/creed-folio
+git clone https://github.com/creed-labs/creed-folio
 - Make your changes locally.
 - Commit with a clear message.
 - Push and open a pull request.
